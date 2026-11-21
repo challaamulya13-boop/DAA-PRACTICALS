@@ -23,3 +23,12 @@ if __name__ == "__main__":
 
     for row in dist:
         print(*row)
+
+"""
+Output:
+0 4 5 5 7
+3 0 1 4 6
+2 6 0 3 5
+3 7 1 0 2
+1 5 5 4 0
+"""
