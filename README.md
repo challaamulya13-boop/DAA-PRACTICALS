@@ -14,3 +14,4 @@ Each practical is organized in a separate numbered folder:
 10. [Practical 10 - Kruskal Algorithm](Practical%2010%20-%20Kruskal%20Algorithm/kruskals_algorithm.py)
 11. [Practical 11 - Floyd Warshall](Practical%2011%20-%20Floyd%20Warshall/floyd_warshall.py)
 12. [Practical 12 - Traveling Salesman](Practical%2012%20-%20Traveling%20Salesman/traveling_salesman.py)
+DAA Practicals 1 to 12
