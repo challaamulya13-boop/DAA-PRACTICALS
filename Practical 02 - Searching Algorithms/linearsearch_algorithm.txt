@@ -1,0 +1,9 @@
+=== Linear Search Algorithm ===
+- Objective: Find the exact index position of a target element within an unsorted array.
+- Algorithm / Pseudo-code:
+  Algorithm LinearSearch(arr, target)
+  1. For i = 0 to length(arr) - 1 do:
+     a. If arr[i] == target then Return i
+  2. End For
+  3. Return -1
+- Complexity: Time: O(n) | Space: O(1)
